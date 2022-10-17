@@ -77,7 +77,7 @@ function App() {
             <div className="card mb-4 mx-2 px-4 rounded-5">
               {/* <img src="..." class="card-img-top" alt="..."> */}
               <div className="border-bottom cardhead">
-                <h6 className="text-center text-muted">Free</h6>
+                <h6 className="text-center text-muted">Plus</h6>
                 <h6 className="text-center card-price">
                   $9<span className="period text-muted">/month</span>
                 </h6>
@@ -139,7 +139,7 @@ function App() {
             <div className="card mb-4 mx-2 px-4 rounded-5">
               {/* <img src="..." class="card-img-top" alt="..."> */}
               <div className="border-bottom cardhead">
-                <h6 className="text-center text-muted">Free</h6>
+                <h6 className="text-center text-muted">Pro</h6>
                 <h6 className="text-center card-price">
                   $49<span className="period text-muted">/month</span>
                 </h6>
